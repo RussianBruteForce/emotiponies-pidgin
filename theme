@@ -1,0 +1,48 @@
+Name=EmotiPonies
+Description=Emoticons by ​midori-no-ink (Copyright (c) Hasbro, Inc.) Converted by Viktor Filinkov (JID: bruteforce[at]sigil.tk) 
+Icon=heart.png
+Author=RussianBruteForce bruteforce[at]sigil.tk
+
+[default]
+pinkiecrazy.png         @w@ @w@;    @u@ @u@;    (@w@)   (@w@;)  (@u@)   (@u@;)  (@w@);  (@u@);
+applecry.png            :[  :-[
+flutterrage.png         >:O >:o XO
+rainbowdetermined2.png  >:) >:-)    >:D >:-D    >:3
+derpyderp2.png          O_o Oo; O-o O_o;    O-o;    O.o O.o;
+applejackconfused.png   @_@ @_@;    @@; @@  @-@ @-@;    x_x X_x x_X X_X x_x;    X_x;    x_X;    X_X;    x-x X-x x-X X-X x-x;    X-x;    x-X;    X-X;
+ajsmug.png              TwT TuT
+twilightangry2.png      >:( >:-(    >=( ):< )-:<    )=<
+fluttershyouch.png      >_< >-< ><  >_<;    >-<;    ><; >.< >.<;    X(  X-( x(  x-( xc  XC
+pinkiesad2.png          TTwTT   TTwTT;  ;w;
+ajsleepy.png            =_= v_v U_U V_V v-v u_u u-u -_- ~_~ z_z =o= ~o~ -o- Z_z Z_Z z_Z |-) |)  |(  |-( (=_=)   (v_v)   (U_U)   (V_V)   (v-v)   (u_u)   (u-u)   (-_-)   (~_~)   (z_z)   (=o=)   (~o~)   (-o-)   (Z_z)   (Z_Z)   (z_Z)
+pinkiehappy.png         :D  :-D =D  =-D ^o^ (^o^)
+applejackunsure.png     :\\ :-\\    =\\ =-\\    :/  :-/ =-/ =/
+raritydespair.png       D:  D-: :C  :c
+rainbowhuh.png          ?_? :-? :?  ?_?;
+trixieshiftleft.png     <_< <_<;    <<; <<  <-< <-<;
+pinkiesmile.png         :)  :-) =)  =-) (:  (=  :o) :O)
+raritywink.png          ;)  ^_~ ~_^ ;-) ;]  ;-] (;  (-; [;  [-; ;D  ;-D
+ajbemused.png           T_T (T_T)   T_T;    (T_T);  (T_T;)  :|  :-| =|  =-|
+unsuresweetie.png       :S  :s  :-S :-S T~T o~o -~- >~> <~<
+coolphoto.png           8)  8-) 8D  8-D B)  B-) BD  B-D
+rainbowkiss.png         :3  X3  ^3^ (^3^)   :-* :*
+trixieshiftright.png    >_> >>  >_>;    >>; >-> >->;', u'\xac.\xac', u'\xac_\xac', u'\xac-\xac', u'\xac\xac', u'\xac.\xac;', u'\xac_\xac;', u'\xac-\xac;', u'\xac\xac;  (>_>)   (>>)    (>_>;)  (>>;)   (>->)   (>->;)', u'(\xac.\xac)', u'(\xac_\xac)', u'(\xac-\xac)', u'(\xac\xac)', u'(\xac.\xac;)', u'(\xac_\xac;)', u'(\xac-\xac;)', u'(\xac\xac;)', u'(\xac.\xac);', u'(\xac_\xac);', u'(\xac-\xac);', u'(\xac\xac); (>->);  (>_>);  (>>);
+fluttershysad.png       :(  :-( =(  ):  )=  :<  :-<
+rainbowderp.png         o_o o_o;    o-o;    o-o oo; ._. ._.;    (o_o)   (o_o);  (o-o);  (o-o)   (oo);   (._.)   (._.);  (o_o;)  (o-o;)  (._.;)  (oo;)
+pinkiesick.png          +_+ +-+ (+_+)   +_+;    (+_+);  +_+ +=+ (+=+)   (+=+);  (+-+)   (+-+);
+twilightoops.png        :X  :x  :-X :-x :#  :-#
+twilightsmile.png       ^_^ ^^  ^-^ :>  :-> ^w^ ^u^ ^U^ (^_^)   (^^)    (^-^)   (^w^)   (^u^)   (^U^)
+derpytongue2.png        :P  :p  :-P :-p Derp    derp    =p  =P
+twilightsheepish.png    ^_^;    ^-^;    ^^; ^w^;    ^u^;
+raritycry.png           TT_TT   TToTT   (TT_TT) (TToTT)
+pinkiegasp.png          :O  :o  :-o :-O omg O_O (O_O)   O-O (O-O)   O_O;    (O_O);  O-O;    (O-O);
+raritystarry.png        *_* *-* *w* (*_*)   (*-*)   (*w*)
+fluttershbad.png        DX  D-X
+heart.png               <3
+fluttercry.png          :[ :'( :'-(    :*( :*-(    ;_; ;-; (;_;)   (;-;)
+derpyderp1.png          o_O oO; o_O;    o-O o-O;    o.O o.O;
+twistnerd.png           :B  :-B =B  =-B 8B  8-B
+rainbowwild.png         ;P  ;-P ;p  ;-p XP  X-P xp  +p  +P
+twilightblush.png       :]  :-] -^^-    #^_^#   -^_^-   ^_^-    -^_^    #^-^#   #^^#    o^_^o   o^-^o   o^^o    *^_^*   *^^*    *^-^*   n//n    n///n   n//n;   n///n;  (n//n)  (n///n) (n//n;) (n///n;)    (n//n); (n///n);
+scootangel.png          O:) o:) O:-)    o:-)    O=) o=) O=-)    o=-)
+rainbowlaugh.png        XD  lol lolol   olol    lmao    LMAO    LOL ROFTLOL ROFL    rofl    rotflol
